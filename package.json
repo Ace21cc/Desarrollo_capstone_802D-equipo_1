@@ -1,0 +1,15 @@
+{
+  "name": "mini-market-desktop",
+  "version": "1.0.0",
+  "main": "electron.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^32.0.0",
+    "dotenv": "^16.0.0",
+    "sqlite3": "^5.1.7"
+    
+  }
+}
